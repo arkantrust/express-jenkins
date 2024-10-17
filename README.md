@@ -1,2 +1,9 @@
-# remix-jenkins
-A remix app deployed to a self-hosted jenkins instance.
+# Bun Jenkins
+
+Running the app
+
+``` bash
+npm install --omit=dev
+
+node index.js
+```
